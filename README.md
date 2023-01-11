@@ -1,5 +1,5 @@
 # Networking
-### An example of the OLD and NEW ways of making Network Requests
+## An example of the OLD and NEW ways of making Network Requests
 
 Reference: https://designcode.io/swiftui-advanced-handbook-async-await
 
